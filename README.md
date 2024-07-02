@@ -1,4 +1,3 @@
-Space Iteration 1
 
 By Bohdan Pasichnyk.
 
